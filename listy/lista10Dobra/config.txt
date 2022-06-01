@@ -1,0 +1,5 @@
+[DEFAULT]
+bazowa_geometria = 680x576+615+150
+country = Afganistn
+continent = Asia
+
